@@ -14,10 +14,16 @@ public class MavenClientApplication {
 		Sum sum = new Sum();
 
 		int addition = sum.addition(10, 15);
-		System.out.println("Addition "+addition);
+		System.out.println("Addition " + addition);
 	}
+
 public String qaMethod()
 {
 return "BikkadIT";
-}
+
+	public String devMethod() {
+
+		return "this is developer";
+
+	}
 }
