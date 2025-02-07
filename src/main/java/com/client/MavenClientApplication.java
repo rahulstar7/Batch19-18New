@@ -37,6 +37,13 @@ return "BikkadIT";
 	}
 
 	public String qAMethodNew() {
+	return "this is developer";
+
+	}
+
+
+//this is new method by dev
+	public String devMethodNew() {
 
 		return "this is developer";
 

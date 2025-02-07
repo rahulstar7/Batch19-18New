@@ -35,8 +35,12 @@
 
 			<artifactId>spring-boot-starter-eureka</artifactId>
 		</dependency>
+
 		/*
 		this is added by the qa*/
+
+		//this is dev dependency
+
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
