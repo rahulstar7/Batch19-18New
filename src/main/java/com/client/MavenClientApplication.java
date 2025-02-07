@@ -26,4 +26,20 @@ return "BikkadIT";
 		return "this is developer";
 
 	}
+
+
+
+
+	public String devMethod() {
+
+		return "this is developer";
+
+	}
+
+	public String qAMethodNew() {
+
+		return "this is developer";
+
+	}
+
 }
